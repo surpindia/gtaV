@@ -513,3 +513,12 @@
     var URL = '?login';
     window.location = fivem; 
   }
+
+function lgin2() {
+    var ts = 'ts3server://103.87.172.243';
+    window.location = ts; 
+  }
+  function lgin3() {
+    var URL = '?login2';
+    window.location = ts3; 
+  }
