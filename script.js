@@ -506,7 +506,7 @@
 
 
   function lgin() {
-    var fivem = 'fivem://connect/subunited.tk';
+    var fivem = 'fivem://connect/game.subunited.online';
     window.location = fivem; 
   }
   function lgin1() {
@@ -515,7 +515,7 @@
   }
 
 function lgin2() {
-    var ts = 'ts3server://103.87.172.243';
+    var ts = 'ts3server://game.subunited.online';
     window.location = ts; 
   }
   function lgin3() {
