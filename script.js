@@ -522,3 +522,4 @@ function lgin2() {
     var URL = '?login2';
     window.location = ts3; 
   }
+
